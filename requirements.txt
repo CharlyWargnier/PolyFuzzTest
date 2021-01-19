@@ -1,6 +1,6 @@
 streamlit
 
-polyfuzz
+polyfuzz==0.2.2
 csv
 io
 matplotlib
